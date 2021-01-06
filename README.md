@@ -2,13 +2,13 @@
 sspanel-theme-homepage
   
 * 在线演示：暂无   
-* 本人博客：https://www.7colorblog.com  
-* 七彩杂铺货：https://faka.7colorblog.com  
+* rootfw：https://www.rootfw.com
+* 电报：https://t.me/RootInstitute
 
 
 ## 安装脚本
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/lizhongnian/sspanel-theme-homepage/master/install.sh &&
+wget -N --no-check-certificate https://raw.githubusercontent.com/ComeBey/sspanel--homepage/master/install.sh &&
 chmod +x install.sh &&
 bash install.sh
 ```
